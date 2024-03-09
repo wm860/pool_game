@@ -5,12 +5,4 @@ C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\infor
 C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\informatyka\projekt_2\projekt_2\main.cpp(50,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\informatyka\projekt_2\projekt_2\main.cpp(297,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\informatyka\projekt_2\projekt_2\main.cpp(333,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  winbgi2.cpp
-C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\informatyka\projekt_2\projekt_2\winbgi2.cpp(551,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\informatyka\projekt_2\projekt_2\winbgi2.cpp(784,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\informatyka\projekt_2\projekt_2\winbgi2.cpp(787,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\informatyka\projekt_2\projekt_2\winbgi2.cpp(820,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\informatyka\projekt_2\projekt_2\winbgi2.cpp(828,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\informatyka\projekt_2\projekt_2\winbgi2.cpp(1997,15): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
-  Generating Code...
   projekt_2.vcxproj -> C:\Users\User\OneDrive - Politechnika Warszawska\STUDIA inżynierskie\SEM1\informatyka\projekt_2\x64\Debug\projekt_2.exe
