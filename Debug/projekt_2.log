@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\admin\desktop\informatyka\projekt_2\projekt_2\main.cpp(36): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\admin\desktop\informatyka\projekt_2\projekt_2\main.cpp(50): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\admin\desktop\informatyka\projekt_2\projekt_2\main.cpp(298): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\admin\desktop\informatyka\projekt_2\projekt_2\main.cpp(343): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1274): note: zobacz deklarację „scanf”
+  projekt_2.vcxproj -> C:\Users\Admin\Desktop\informatyka\projekt_2\Debug\projekt_2.exe
